@@ -9,4 +9,9 @@ Elle permet aux étudiants de voir plus facilement leurs cours via une applicati
 
 
 > [!CAUTION]
-> La version debug sera obsolète à partir de la version <ins>**2.0**</ins>. La version release, optimisée pour la production, devra être utilisée à la place.
+> Edeta affiche mal les cours si le timezone n'est pas spécifique à Paris. Ce problème est lègerement plus complexe à corriger avec Compose Multiplatform ce bug sera corrigé prochainement.
+
+
+# Utilisation externe
+Edeta peut être utilisée dans d'autres cas (principe, code) uniquement à but non lucratif.
+Aucune utilisation commerciale n'est autorisée.
